@@ -1,0 +1,77 @@
+{
+  "cnn": {
+    "rss": "http://rss.cnn.com/rss/edition_world.rss",
+    "link": "http://edition.cnn.com/"
+  },
+  "america":
+  {
+    "rss":"https://www.oann.com/feed/",
+     "link":"https://www.oann.com/"
+  },
+  "bbc": {
+    "rss": "http://feeds.bbci.co.uk/news/rss.xml",
+    "link": "http://www.bbc.com/"
+  },
+  "theguardian": {
+    "rss": "https://www.theguardian.com/uk/rss",
+    "link": "https://www.theguardian.com/international"
+  },
+  "breitbart": {
+    "link": "http://www.breitbart.com/"
+  },
+  "foxnews": {
+    "rss":"https://www.foxnews.com/about/rss",
+    "link": "http://www.foxnews.com/"
+  },
+  "nbcnews": {
+    "link": "http://www.nbcnews.com/"
+  },
+  "washingtonpost": {
+    "rss": "http://feeds.washingtonpost.com/rss/world",
+    "link": "https://www.washingtonpost.com/"
+  },
+  "theonion": {
+    "link": "http://www.theonion.com/"
+  },
+
+
+
+
+
+
+  "cbsnews":{
+    "link": "https://craig-mullins.com/"
+  },
+  "bients": {
+    "link": "https://bients.com/"
+  },
+  "national news":
+  {
+    "link": "https://www.nationalinsiders.com/the-most-corrupt-political-family-in-american-history/"
+  },
+  "national report news":{
+    "link": "http://nationalreport.net/"
+  },
+  "snopes news":
+  {
+    "link": "https://www.snopes.com/"
+  },
+
+  "politfact":
+  {
+    "link": "https://www.politifact.com/"
+
+  },
+
+  "infowars": {
+    "link": "https://www.infowars.com/"
+  },
+  "cbcnews.co":
+  {
+    "link": "https://www.cbsnews.com/"
+  },
+  "empire online news":
+  {
+    "link": "https://www.empireonline.com/"
+  }
+}
